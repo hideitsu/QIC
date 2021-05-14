@@ -19,11 +19,11 @@ This code implements algorithms proposed in the following papers by R.
 When you use this source code in your study and write papers, please cite above two papers.
 
 
-REQUIRE:
+
 ## You must install following libraries in advance:
 "MASS", "clues", and "pracma"
 
-USAGE:
+
 ## a test code using the data "wine" is written in "demo.r"
 
 > source("demo.r")
