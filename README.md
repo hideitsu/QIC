@@ -41,5 +41,3 @@ If you want to optimize alpha using the cluster conditional entropy (the method 
 > anneal <- FALSE
 
 
-%%%%%%%%%%%%%%%%%%%%
-%Copyright (c) Hideitsu Hino, 2014.
